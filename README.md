@@ -1,7 +1,7 @@
 # Mohd Zaid Ahmad
 ### Business Analyst · SQL · Power BI · Excel
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohdzaidahmad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zaid-ahmad011)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zaidahmad6387@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github)](https://github.com/ZaidAhmad122)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Delhi%20NCR-brightgreen?style=flat-square)
