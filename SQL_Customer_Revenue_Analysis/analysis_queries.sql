@@ -1,6 +1,6 @@
 -- ============================================================
 -- PROJECT: Customer Orders & Revenue Analysis
--- Author  : [Your Name]
+-- Author  :  Umar Adab | Business Analyst Portfolio
 -- Tool    : SQLite / MySQL / PostgreSQL compatible
 -- ============================================================
 -- SCHEMA REFERENCE:
